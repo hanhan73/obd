@@ -1,0 +1,7 @@
+[auth]
+token=3d19bcc36c624a6997018d77516778bcb9beeb8a8e3e489d87d41936083394e5
+
+[defaults]
+project=gps
+org=sentry
+url=http://zy.dtmobi.com:9000/

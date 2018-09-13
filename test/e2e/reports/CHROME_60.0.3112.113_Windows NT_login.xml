@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="login"
+    errors="0" failures="1" hostname="" id="" package="login" skipped="0"
+    tests="1" time="5.090" timestamp="Mon, 06 Nov 2017 11:26:16 GMT">
+  
+    <testcase name="login页面测试" classname="login" time="5.090" assertions="3">
+
+    
+
+      <failure message="Testing if element &lt;h1&gt; contains text: &quot; GPS云平台1&quot;.">    at Object.test [as login页面测试] (E:/myProject/gps/test/e2e/specs/login.js:15:15)
+    at _combinedTickCallback (internal/process/next_tick.js:95:7)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
